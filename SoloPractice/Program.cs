@@ -3,7 +3,9 @@
 namespace SoloPractice {
     class Program {
         static void Main(string[] args) {
-            Console.WriteLine("Hello World!");
+            int number1, number2, temp;
+            Console.WriteLine("");
+            
         }
     }
 }
